@@ -1,7 +1,7 @@
 package Delivery;
 
-import Store.MeatStore;
 import Model.Meat;
+import Store.MeatStore;
 
 import java.util.HashMap;
 import java.util.Map;

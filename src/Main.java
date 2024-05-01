@@ -1,10 +1,10 @@
 import Delivery.BasketImpl;
-import Store.MeatStore;
-import Store.MeatStoreImpl;
 import Model.Beef;
 import Model.Chicken;
 import Model.Meat;
 import Model.Pork;
+import Store.MeatStore;
+import Store.MeatStoreImpl;
 
 import java.io.BufferedReader;
 import java.io.IOException;
